@@ -1,3 +1,3 @@
 <Version: 1.01>
-/img/SumRndmDde/auto-update/Background.png 
+/img/SumRndmDde/auto-update/Background.png https://github.com/DarselX/RPG_Diamond/blob/master/Update1_01/Background.png
 <End of Version>
